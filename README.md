@@ -1,5 +1,5 @@
 # Hi there 👋
-🌐 Web Developer<br>🚀 Development of Responsive and Accessible User Interfaces <br>🧵 Sewing Fuels My Creativity and Attention to Detail<br>📚 Currently Learning Back-End Development
+🌐 Web Developer<br>🚀 Development of Responsive and Accessible User Interfaces <br>🧵 Sewing Fuels My Creativity and Attention to Detail<br>📚 Currently Learning Back-End Development with PHP and SQL
 
 <br>
 
