@@ -1,5 +1,11 @@
 # Hi there 👋
-✨ Passionate about building responsive, accessible, and secure web applications that prioritize user experience and inclusivity<br>🌍 Fluent in Spanish, Catalan, Romanian, and English (C1 level, Cambridge B2 First)<br>🧵 Firm believer in mastering the fundamentals, whether in coding or in sewing, a creative hobby that sharpens attention to detail<br>💡 Learning by doing is my preferred approach, especially when building things from the ground up<br>🛠️ Skilled in JavaScript, HTML/CSS, React, Laravel, PHP, and SQL, with experience across the full stack<br>🌐 Strong foundation in both front-end and back-end development, including REST APIs, DBMS, deployment workflows, and security best practices<br>🌱 Currently exploring Three.js and HTML Canvas to design unique and interactive user interfaces
+✨ Passionate about building responsive, accessible, and secure web applications
+🌍 Fluent in Spanish, Catalan, Romanian, and English
+🧵 Firm believer in mastering the fundamentals, whether in coding or in sewing, a hobby that sharpens my creativity
+💡 Building projects from the ground up helps me learn best
+🛠️ Skilled in JavaScript, HTML/CSS, React, Laravel, PHP and SQL
+🌐 Strong foundation in both front-end and back-end development, including REST APIs, DBMS, deployment workflows, and security best practices
+🌱 Currently exploring Three.js and HTML Canvas to design unique and interactive user interfaces
 
 <br>
 
